@@ -1,0 +1,6 @@
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab5\DependencyInjectionContainer\bin\Debug\DependencyInjectionContainer.dll
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab5\DependencyInjectionContainer\bin\Debug\DependencyInjectionContainer.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab5\DependencyInjectionContainer\obj\Debug\DependencyInjectionContainer.csproj.AssemblyReference.cache
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab5\DependencyInjectionContainer\obj\Debug\DependencyInjectionContainer.csproj.CoreCompileInputs.cache
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab5\DependencyInjectionContainer\obj\Debug\DependencyInjectionContainer.dll
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\3 курс\СПП\lab5\DependencyInjectionContainer\obj\Debug\DependencyInjectionContainer.pdb
